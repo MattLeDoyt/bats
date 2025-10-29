@@ -1,2 +1,14 @@
 # bats
 Bats are cool :) 
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Bats Are Cool </h1>
+<h2> Matt LeDoyt </h2>
+<p> There are 1,400 species of bats found worldwide and they can be found on nearly every part of the planet. They're the only flying mammal and can reach over 100mph according to some studies. There are over 80 medicines that come from plants that rely on bats to survive and studies on how bats use echolocation have been used to develop navigational tools for the blind. </p>
+<a href="en.wikipedia.org/wiki/Bat"> This is the bat wikipedia page</a>
+<img src="hoarybat.jpg"
+alt="en.wikipedia.org/wiki/Bat" width="104"
+height="142">
+</body>
+</html>
