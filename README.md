@@ -1,4 +1,3 @@
- <!DOCTYPE html>
 <html>
 <body>
 <h1> Bats Are Cool </h1>
